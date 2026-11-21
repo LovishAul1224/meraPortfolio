@@ -48,8 +48,7 @@ export function Hero() {
           />
           <div className="sticker">AI ENGINEER</div>
           <div className="seal">
-            <strong>7.81</strong>
-            <span>CGPA</span>
+            <strong>😎</strong>
           </div>
         </div>
       </div>
